@@ -8,7 +8,10 @@ The system is structured into two main parts, Node 1 and Node 2, which communica
 
 - **Node 2**: Built around an Arduino Due with an ATSAM3X8e microcontroller and includes a BT840 for Bluetooth connectivity, logic level converters, an OpAmp for signal amplification, and interfaces to control a servo and solenoid for physical movements in the game.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/jecan95/TTK4155---Embedded-and-Industrial-Computer-Systems-Design/blob/main/Images%20and%20Video/20231115_144630.jpg)
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
 
 
 
