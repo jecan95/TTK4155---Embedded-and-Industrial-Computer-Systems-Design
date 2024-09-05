@@ -28,7 +28,7 @@ The system is structured into two main parts, Node 1 and Node 2, which communica
 
 8. **Motor and Solenoid Control**: Utilize encoders and solenoids to manage the motion aspects of the ping pong game, ensuring accurate and responsive play.
 
-[Watch the video](https://youtu.be/vt5fpE0bzSY)
+[Watch the video](https://www.youtube.com/watch?v=b1AdgdpmUUQ)
 
 
 
